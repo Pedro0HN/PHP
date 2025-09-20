@@ -1,0 +1,32 @@
+.formhtml{
+    background-color: #FF9ECD;
+    text-align: center;
+    margin-top: 0%;
+    padding-left: auto;
+    display: flex;
+    width: 1000px;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 6%;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 5px 4px 10px rgb(0, 0, 0);
+}
+body{
+    margin: 0%;
+    display: flex;
+    justify-content: center;
+    background-color: #e96db1
+    
+}
+input{
+    width: 250px;
+    height: auto;
+}
+.texto{
+    text-align: center;
+    font: 100;
+    font-family: Arial, Helvetica, sans-serif
+}
